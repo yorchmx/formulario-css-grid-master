@@ -69,7 +69,8 @@ main {
 
 .formulario__checkbox {
 	margin-right: 10px;
-	margin-top: 45px;
+	margin-top: 25px;
+	margin-bottom: 25px;
 }
 
 .formulario__grupo-terminos, 
